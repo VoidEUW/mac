@@ -90,6 +90,13 @@
       "url": "https://downloads.affinity.studio/Affinity.dmg",
       "type": "dmg",
       "install_command": "brew install --cask affinity"
+    },
+    {
+      "id": "qq",
+      "name": "QQ",
+      "url": "https://h5.news.qq.com/qqnews-desk/channel/100000/qqnews_latest_arm64_signed_100000.dmg",
+      "type": "dmg",
+      "install_command": "brew install --cask qq"
     }
   ]
 }
