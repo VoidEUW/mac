@@ -34,6 +34,13 @@
       "url": "https://code.visualstudio.com/download",
       "type": "dmg",
       "install_command": "brew install --cask visual-studio-code"
+    },
+    {
+      "id": "discord",
+      "name": "Discord",
+      "url": "https://discord.com/api/download?platform=osx",
+      "type": "dmg",
+      "install_command": "brew install --cask discord"
     }
   ]
 }
