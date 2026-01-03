@@ -1,6 +1,34 @@
 {
   "apps": [
     {
+      "id": "homebrew",
+      "name": "Homebrew",
+      "url": "https://brew.sh",
+      "type": "script",
+      "install_command": "/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\""
+    },
+    {
+      "id": "git",
+      "name": "Git",
+      "url": "https://git-scm.com",
+      "type": "brew",
+      "install_command": "brew install git"
+    },
+    {
+      "id": "docker",
+      "name": "Docker Desktop",
+      "url": "https://www.docker.com/products/docker-desktop",
+      "type": "brew",
+      "install_command": "brew install --cask docker"
+    },
+    {
+      "id": "privadovpn",
+      "name": "Privado VPN",
+      "url": "https://privadovpn.com/apps/osx/PrivadoVPN.dmg",
+      "type": "dmg",
+      "install_command": "brew install --cask privado-vpn"
+    },
+    {
       "id": "vscode",
       "name": "Visual Studio Code",
       "url": "https://code.visualstudio.com/download",
