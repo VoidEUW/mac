@@ -94,7 +94,7 @@
     {
       "id": "qq",
       "name": "QQ",
-      "url": "https://h5.news.qq.com/qqnews-desk/channel/100000/qqnews_latest_arm64_signed_100000.dmg",
+      "url": "https://dldir1v6.qq.com/qqfile/qq/QQNT/Mac/QQ_6.9.83_251105_01.dmg",
       "type": "dmg",
       "install_command": "brew install --cask qq"
     }
