@@ -1,5 +1,4 @@
 {
-  "directories": [
-    
-  ]
+  "directories": ["~/Development", "~/Development/Gitea"],
+  "binaries": ["~/Applications/.bin", "~/Development/.bin"]
 }
